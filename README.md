@@ -51,6 +51,21 @@
 
 ![Task 3 1](https://user-images.githubusercontent.com/75664650/133296874-0bc37270-e2d5-4db2-b570-d2fe0839e013.PNG)
 
+### Task 04:
+
+### First I created the file LT-2021-047_task04.yaml file with the following content
+
+![Task 4 2](https://user-images.githubusercontent.com/75664650/133297271-91b33b4a-8f05-4ea6-b022-542221c5f329.PNG)
+
+### Then I ran that specific playbook
+
+![Task 4](https://user-images.githubusercontent.com/75664650/133297346-deca779b-0519-44a8-b715-7827a5b11ff1.PNG)
+
+![Task 4 1](https://user-images.githubusercontent.com/75664650/133297362-366b33f0-8e0d-485e-b568-3767d41263ee.PNG)
+
+
+
+
 
 
 
