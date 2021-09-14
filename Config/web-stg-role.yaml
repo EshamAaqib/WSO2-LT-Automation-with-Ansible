@@ -1,0 +1,5 @@
+---
+- name: Automating Task 01 and Task 02
+  hosts: apache-1 apache-2
+  roles:
+    - web-stg

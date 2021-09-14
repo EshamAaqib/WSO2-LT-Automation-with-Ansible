@@ -1,0 +1,11 @@
+---
+- name: Automating Task 01 and Task 02 on Apache Server 1
+  hosts: apache-1 
+  roles:
+    - web-stg
+
+- name: Automating Task 01 and Task 02 on Apache Server 2
+  hosts: apache-2
+  roles:
+    - web-stg
+
