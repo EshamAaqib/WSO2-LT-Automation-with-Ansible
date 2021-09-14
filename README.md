@@ -6,7 +6,7 @@
 
 ### Screenshots
 
-### Running the created playbook (Playbook file can be access via the link at the top)
+### Running the created LT-2021-047_task01.yaml playbook (Playbook file can be access via the link at the top)
 
 ![Task 1](https://user-images.githubusercontent.com/75664650/133295187-9ffb39d9-e86b-4f52-aa0c-6ca550540be8.PNG)
 
