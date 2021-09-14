@@ -30,3 +30,27 @@
 
 ![image](https://user-images.githubusercontent.com/75664650/133295949-35843b81-bbb4-42ea-91cd-aa2927773ff1.png)
 
+## Task 03:
+
+### Creating the ansible role web-stg
+
+![Task 3](https://user-images.githubusercontent.com/75664650/133296229-6a1e7f51-e4e2-4195-aa4d-42c22372e095.PNG)
+
+### Tree structure of the web-stg folder
+
+![Task 3 4](https://user-images.githubusercontent.com/75664650/133296414-abf383d1-1409-4868-bb79-187f3d4fd072.PNG)
+
+### Afterwards I modified the main.yaml file in the tasks folder and handlers folder and added the needed configurations. I have uploaded the file to the link mentioned on the top of the document. I didnt attach a screenshot as the file was too long.
+
+
+### Attempting to run the created role (I created a file name web-stg-role.yaml so I can use it to run the role)
+
+![Task 3 3](https://user-images.githubusercontent.com/75664650/133296761-faf6a372-f015-4273-8d4b-a6b10c44825c.PNG)
+
+![Task 3 2](https://user-images.githubusercontent.com/75664650/133296857-040826ff-3d80-4b2e-a034-4cf96c0d08b2.PNG)
+
+![Task 3 1](https://user-images.githubusercontent.com/75664650/133296874-0bc37270-e2d5-4db2-b570-d2fe0839e013.PNG)
+
+
+
+
