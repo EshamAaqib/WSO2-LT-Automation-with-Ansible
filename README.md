@@ -15,9 +15,9 @@
 
 ### Encrypting playbook file using the Ans$iB1ePw as the encryption key
 
-![image](https://user-images.githubusercontent.com/75664650/133301332-65357499-4237-4104-8ef7-f71fff01f1a5.png)
+> ![image](https://user-images.githubusercontent.com/75664650/133301332-65357499-4237-4104-8ef7-f71fff01f1a5.png)
 
-![image](https://user-images.githubusercontent.com/75664650/133301383-1fd81e78-31a7-42eb-a462-abd4448a05a8.png)
+> ![image](https://user-images.githubusercontent.com/75664650/133301383-1fd81e78-31a7-42eb-a462-abd4448a05a8.png)
 
 ### Output after accessing both the apache servers via the IP
 
